@@ -1,0 +1,4 @@
+# Ignore TeX files.
+*.aux
+*.log
+*.toc
